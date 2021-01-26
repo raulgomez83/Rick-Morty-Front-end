@@ -14,6 +14,4 @@ npm run serve
 ```
 npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Mi primera pequeña aplicación de búsqueda de elementos de una API utilizando VueJS.
